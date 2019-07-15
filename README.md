@@ -1,5 +1,5 @@
 # cargo-generate-ggez
-A template for kickstarting a rust gamedev (ggez) project based off the template provided by ggez/game-template,
+A template for kickstarting a rust gamedev (ggez) project based off parts of the template provided by ggez/game-template,
 with game dev goodies like specs, euclid and warmy.
 
 # Help
