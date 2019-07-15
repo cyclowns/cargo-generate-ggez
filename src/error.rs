@@ -2,8 +2,7 @@
 
 use ggez;
 
-#[derive(Debug, Fail)]
-#[fail(display = "ggez error: {:?}", err)]
+#[derive(Debug)]
 pub struct GgezError {
     err: ggez::GameError,
 }
